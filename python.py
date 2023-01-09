@@ -2,7 +2,7 @@
 #this is a commemt in python
 
 a=5 
-b=4
+b=6
 
 sum = a+b
 
