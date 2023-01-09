@@ -1,8 +1,8 @@
 
 #this is a commemt in python
 
-a=50 
-b=60
+a=55 
+b=65
 
 sum = a+b
 
